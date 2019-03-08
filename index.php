@@ -49,6 +49,7 @@ body {
   <li><a href="tiltedpage_scroll_demo.html">Interests</a></li>
   <li><a href="Ebis1.php">Checkout</a></li>
 </ul>
-        <div>  </div>
+<a href="https://github.com/NiallMurphy10/PhpProject1"> GitHub</a> 
+<a href="https://dashboard.heroku.com/apps/nm-118356256/deploy/github">Heroku </a>
     </body>
 </html>
