@@ -46,7 +46,7 @@ body {
 <ul>
   <li><a href="Services.html">Services</a></li>
   <li><a href="CV.html">My CV</a></li>
-  <li><a href="tiltedpage_scroll_demo.html">Interests</a></li>
+  <li><a href="/tiltedpage_scroll_demo.html">Interests</a></li>
   <li><a href="Ebis1.php">Checkout</a></li>
 </ul>
 <a href="https://github.com/NiallMurphy10/PhpProject1"> GitHub</a> 
