@@ -44,12 +44,12 @@ body {
 <h2 style="color:whitesmoke;"><u>Murphy Consultancy Ltd.</u></h2>
 
 <ul>
-  <li><a href="http://localhost:8000/Services.html">Services</a></li>
+  <li><a href="Services.html">Services</a></li>
   <li><a href="CV.html">My CV</a></li>
   <li><a href="tiltedpage_scroll_demo.html">Interests</a></li>
   <li><a href="Ebis1.php">Checkout</a></li>
 </ul>
 <a href="https://github.com/NiallMurphy10/PhpProject1"> GitHub</a> 
-<a href="https://dashboard.heroku.com/apps/nm-118356256/deploy/github">Heroku </a>
+<a href="https://nm-118356256.herokuapp.com/">Heroku </a>
     </body>
 </html>
